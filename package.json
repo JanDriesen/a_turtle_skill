@@ -1,0 +1,14 @@
+{
+  "name": "a_turtle_skill",
+  "version": "1.0.0",
+  "description": "A turtle skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jan Driesen",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^4.2.2"
+  }
+}
